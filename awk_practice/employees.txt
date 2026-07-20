@@ -1,0 +1,6 @@
+101 Rahul DevOps 50000
+102 Amit AWS 60000
+103 Sneha Docker 55000
+104 Ravi Kubernetes 70000
+105 Priya Terraform 65000
+106 Aman Linux 48000

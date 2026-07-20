@@ -1,0 +1,7 @@
+Rahul  Devops
+Amit   Aws
+Sneha  Docker
+Ravi   Kubernetes
+Priya  Terraform
+rahul  Linux
+Anam   Jenkins

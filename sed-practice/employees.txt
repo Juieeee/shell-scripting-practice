@@ -1,0 +1,6 @@
+101  Rahul  Devops
+102  Amit   Aws
+103  Sneha  Docker
+104  Ravi   Kubernetes
+105  Priya  Terraform
+106  Rahul  Linux
