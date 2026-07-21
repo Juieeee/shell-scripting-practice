@@ -1,0 +1,20 @@
+# Every minute
+* * * * * echo "Hello"
+
+# Every 5 minutes
+*/5 * * * * /home/user/script.sh
+
+# Every hour
+0 * * * * /home/user/script.sh
+
+# Every day at 9 AM
+0 9 * * * /home/user/script.sh
+
+# Every Monday at 8 AM
+0 8 * * 1 /home/user/script.sh
+
+# Every month on the 1st at midnight
+0 0 1 * * /home/user/script.sh
+
+# Every Sunday at 10 PM
+0 22 * * 0 /home/user/script.sh
